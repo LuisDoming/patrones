@@ -9,5 +9,8 @@ package com.mycompany.ejerciciopatrones;
  * @author ldoar
  */
 public interface tipoPaquete {
-    
+    public void sobre();
+    public void paquenio();
+    public void mediano();
+    public void grande();
 }

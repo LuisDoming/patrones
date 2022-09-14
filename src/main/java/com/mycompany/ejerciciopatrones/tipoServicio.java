@@ -9,5 +9,6 @@ package com.mycompany.ejerciciopatrones;
  * @author ldoar
  */
 public interface tipoServicio {
-    
+    public void express();
+    public void estandar();
 }
